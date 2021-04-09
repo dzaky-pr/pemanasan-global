@@ -1,22 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
 .jumbotron {
-  padding-top: 1rem;
+  padding-top: 5rem;
   background-color: #ffc10780;
 }
 
-.gejala {
+.proses,
+.pencegahan {
   background-color: #ffc10780;
 }
 
-/* .mb-5 {
-  margin-bottom: 0;
-} */
+.sumber {
+  background-color: #ffc107;
+}
 
-/* .img-thumbnail {
-    margin-top: ;
-} */
+.dzaky {
+  text-decoration: none;
+  color: black;
+}
 
-/* .img-thumbnail .mt-5 {
-  margin-left: ($spacer * 5) !important;
-} */
+.dzaky {
+  text-decoration: none;
+  color: black;
+}
+
+.dzaky:hover {
+  text-decoration: underline;
+  color: whitesmoke;
+}
+
+.rifai {
+  list-style: none;
+}
+
+section {
+  padding-top: 9rem;
+  padding-bottom: 7rem;
+}
